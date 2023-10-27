@@ -19,7 +19,7 @@ if (skyNocorrect == "блакитне") {
 } else {
   answerCorrect += 0;
 }
-if (divisionNocorrect == "undefined") {
+if (divisionNocorrect == "Infinity") {
   answerCorrect += +divisionAnswer;
 } else {
   answerCorrect += 0;
